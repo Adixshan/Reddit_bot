@@ -1,0 +1,12 @@
+2025-01-25 22:26:01,548 - Authenticated with Reddit API.
+2025-01-25 22:26:04,568 - Scheduled daily posts to r/test at 22:27.
+2025-01-25 22:27:02,554 - Error generating content: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-25 22:27:06,031 - Posted to r/test. URL: https://www.reddit.com/r/test/comments/1i9rbfj/aigenerated_post/
+2025-01-25 22:34:06,291 - Authenticated with Reddit API.
+2025-01-25 22:34:09,283 - Scheduled daily posts to r/test at 22:35.
+2025-01-25 22:35:01,584 - Error generating content: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-25 22:35:04,857 - Posted to r/test. URL: https://www.reddit.com/r/test/comments/1i9rifh/aigenerated_post/
+2025-01-25 22:52:43,918 - Authenticated with Reddit API.
+2025-01-25 22:52:47,112 - Scheduled daily posts to r/test at 22:54.
+2025-01-25 22:54:01,189 - Content generated successfully.
+2025-01-25 22:54:03,576 - Posted to r/test. URL: https://www.reddit.com/r/test/comments/1i9rye1/aigenerated_post/
