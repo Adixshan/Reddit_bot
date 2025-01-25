@@ -19,6 +19,7 @@ Before getting started, make sure you have the following:
 - The `schedule` library (to run the bot on your desired schedule).
 - **Groq API Key** for generating AI content.
 - **Reddit API credentials** (Client ID, Secret, Username, Password).
+- Make logs folder and place the bot.log inside it
 
 ## Getting Started
 
